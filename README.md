@@ -6,7 +6,7 @@ This repository contains my solutions and write-ups for selected Jane Street puz
 
 ## Profile
 
-- Completed puzzles: 2
+- Completed puzzles: 3
 - Focus areas: probability, combinatorics, stochastic reasoning, optimization
 
 ---
