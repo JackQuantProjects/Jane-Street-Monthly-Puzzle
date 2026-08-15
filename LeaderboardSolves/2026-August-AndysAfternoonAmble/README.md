@@ -22,7 +22,7 @@ Where the letter is the distance from home (a = 1, b = 2, etc...).
 
 ## solving the equation 
 
-![matrix](images/matrix)
+![matrix](images/matrix.png)
 
 this means there is a 45% chance he does not realise he has left the ball. Leaving the answer as 55% or 11/20
 
