@@ -22,47 +22,7 @@ Where the letter is the distance from home (a = 1, b = 2, etc...).
 
 ## solving the equation 
 
-$$
-\begin{bmatrix}
--1 & 2/3 & 0 & 0 \\
-1/3 & -1 & 1/3 & 0 \\
-0 & 1/3 & -1 & 1/3 \\
-0 & 0 & 2/3 & -1 \\
-
-\end{bmatrix}
-*
-\begin{bmatrix}
-a \\
-b \\
-c \\
-d \\
-\end{bmatrix}
-=
-\begin{bmatrix}
--1/3 \\
-0\\
-0\\
-0\\
-\end{bmatrix}
-$$
-
-This can be quite easily solved on a calculator to give you:
-
-$$
-\begin{bmatrix}
-a \\
-b \\ 
-c \\
-d \\
-\end{bmatrix}
-=
-\begin{bmatrix}
-0.45 \\
-0.175 \\
-0.075 \\
-0.05 \\
-\end{bmatrix}
-$$
+![matrix](images/matrix)
 
 this means there is a 45% chance he does not realise he has left the ball. Leaving the answer as 55% or 11/20
 
